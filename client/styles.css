@@ -8,6 +8,10 @@ h1 {
     color:crimson;
 }
 
-body {
-    
+h2 {
+    color:darkblue;
+}
+
+#embed-video {
+    display:none;
 }
